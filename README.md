@@ -1,10 +1,9 @@
 <div align="center">
-
-# Hi there! I'm Iker Rodríguez
-
+  # 👋 Hi there! I'm Iker Rodríguez
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=52B983&width=435&lines=Informatic+Engineer;Retro+enthusiast;Low-level+coder)](https://git.io/typing-svg)
 </div>
-
 ---
+
 
 <!--
 **ikeruco29/ikeruco29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
