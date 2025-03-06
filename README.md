@@ -9,7 +9,7 @@
 </div>
 
 ---
-## About me
+## 📘 About me
 
 - 🔭 Interested in embedded systems and retro architectures
 - 🌱 Studied Informatic Engineer at Francisco de Vitoria's University
@@ -17,7 +17,7 @@
 - 🖲️ Getting started in emulation (already made an rv32i emulator and working on a NES one)
 ---
 
-## Skills
+## 🧪 Skills
 
 <div align="center">
   
@@ -49,7 +49,7 @@
 </div>
 
 ---
-## Stats
+## 🧩 Stats
 
 [![GitHub contribution](https://github-readme-activity-graph.vercel.app/graph?username=ikeruco29&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -62,4 +62,16 @@
 
 ---
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ikeruco29.ikeruco29">
+## 📎 Featured projects
+
+<div align="center">
+  
+  <a href="https://github.com/ikeruco29/Kronos-RISC-V-Emulator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikeruco29&repo=kronos-risc-v-emulator&theme=tokyonight&hide_border=true" />
+  </a>
+
+</div>
+
+---
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ikeruco29.ikeruco29">
