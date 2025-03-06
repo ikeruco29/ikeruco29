@@ -29,6 +29,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
 ### Tools
@@ -50,9 +51,9 @@
 [![GitHub contribution](https://github-readme-activity-graph.vercel.app/graph?username=ikeruco29&theme=tokyo-night&bg_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center>
-  
-![ikeruco29's Stats](https://github-readme-stats.vercel.app/api?username=ikeruco29&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![ikeruco29's Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ikeruco29&theme=tokyonight&hide_border=true)
+
+<img src="https://github-readme-stats.vercel.app/api?username=ikeruco29&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height=170>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ikeruco29&theme=tokyonight&hide_border=true" height=170>
 
 </div>
 
