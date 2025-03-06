@@ -48,7 +48,7 @@
 ---
 ## Stats
 
-[![GitHub contribution](https://github-readme-activity-graph.vercel.app/graph?username=ikeruco29&theme=tokyo-night&bg_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub contribution](https://github-readme-activity-graph.vercel.app/graph?username=ikeruco29&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center>
 
