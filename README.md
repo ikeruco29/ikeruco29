@@ -73,7 +73,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikeruco29&repo=StudyFlow&theme=tokyonight&hide_border=true" />
   </a>
 
-
 </div>
 
 ---
