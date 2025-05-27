@@ -69,6 +69,10 @@
   <a href="https://github.com/ikeruco29/Kronos-RISC-V-Emulator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikeruco29&repo=kronos-risc-v-emulator&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/ikeruco29/StudyFlow">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikeruco29&repo=StudyFlow&theme=tokyonight&hide_border=true" />
+  </a>
+
 
 </div>
 
